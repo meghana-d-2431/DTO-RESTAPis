@@ -1,1 +1,4 @@
 SHOW DATABASES;
+use new_db;
+SHOW TABLES;
+SELECT * FROM employee;
