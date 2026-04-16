@@ -1,0 +1,13 @@
+{
+  "Employee": {
+    "jobTitleName": "Developer",
+    "firstName": "John",
+    "lastName": "Doe",
+    "emailAddress": "john@example.com",
+    "phoneNumber": "1234567890",
+    "preferredFullName": "John Doe",
+    "region": "US",
+    "userId": "jd01",
+    "employeeCode": "E102"
+  }
+}

@@ -1,0 +1,16 @@
+?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Employees>
+        <jobTitleName>Java Developer</jobTitleName>
+        <firstName>Meghana</firstName>
+        <lastName>D</lastName>
+        <emailAddress>meghana@gmail.com</emailAddress>
+        <phoneNumber>1234567890</phoneNumber>
+        <preferredFullName>Meghana</preferredFullName>
+        <region>CA</region>
+        <userId>meghana</userId>
+        <employeeCode>123</employeeCode>
+    </Employees>
+</root>
+
+// do it using DTO class and then convert it to XML and json a visa versa
